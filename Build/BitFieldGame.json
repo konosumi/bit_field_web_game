@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "BitFieldGame.data.unityweb",
+"asmCodeUrl": "BitFieldGame.asm.code.unityweb",
+"asmMemoryUrl": "BitFieldGame.asm.memory.unityweb",
+"asmFrameworkUrl": "BitFieldGame.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
